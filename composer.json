@@ -1,5 +1,5 @@
 {
-  "name": "formable/formable",
+  "name": "formable/formable-sdk",
   "description": "Official PHP SDK for the Formable API",
   "license": "MIT",
   "type": "library",
