@@ -134,3 +134,5 @@ try {
 composer install
 composer test
 ```
+
+To publish a new version, see [RELEASING.md](RELEASING.md).
